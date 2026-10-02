@@ -40,13 +40,13 @@ Built a two page Power BI dashboard for the Head of Credit Risk: one page coveri
 
 **Page 1: EDA Findings**
 
-![EDA Findings](Dashboard/screenshots/01_EDA_Findings.png)
+![EDA Findings](Dashboard/Screenshots/01_EDA_Findings.png)
 
 Covers total applications, approval rate, rejection rate, and average CIBIL score, plus how approval rates break down by CIBIL band, education, self-employment status, and asset value.
 
 **Page 2: Model Results**
 
-![Model Results](Dashboard/screenshots/02_Model_Results.png)
+![Model Results](Dashboard/Screenshots/02_Model_Results.png)
 
 Covers the model's accuracy, precision, recall, and ROC-AUC, a confusion matrix, feature importance, prediction accuracy by CIBIL band, and a search tool where a reviewer can look up an individual application by its ID and see its predicted vs actual outcome.
 
